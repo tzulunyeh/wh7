@@ -1,2 +1,1 @@
 Django==3.2.3
-heroku config:set DISABLE_COLLECTSTATIC=0
